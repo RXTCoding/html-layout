@@ -1,0 +1,53 @@
+#greyRect {
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+    border: 10px grey;
+    padding-top: 10px;
+}
+
+body {
+    margin: 0;
+}
+
+#smBluRect {
+    height: 70px; 
+    width: 70px;
+    background-color: lightskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#whiRect {
+    height: 250px; 
+    width: 100%;
+    background-color: mintcream;
+}
+
+#darkBluRect {
+    height: 100px; 
+    width: 100%;
+    background-color: lightskyblue;
+}
+
+#aquaRect {
+    height: 100px; 
+    width: 100%;
+    background-color: aquamarine;
+}
+
+#limeRect {
+    height: 100px; 
+    width: 100%;
+    background-color: lightgreen;
+}
+
+#yellRect{
+    height: 100px; 
+    width: 100%;
+    background-color: rgb(255, 255, 111)
+}
+
+#tString{
+    text-align: center;
+}

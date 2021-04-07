@@ -1,0 +1,73 @@
+/* this section has apprx 3px black borders */
+
+.parOne_section {
+    
+    height: 100px;
+    width: 96%;
+    border: 5px solid black;
+}
+
+.smVerRect {
+    height: 80px;
+    width: 20px;
+    display:inline-block;
+    margin-left: 6px;
+background-color: rgb(113, 65, 175);
+}
+
+.larHorRect {
+    
+    border: 10px solid green;
+    height: 50px;
+    width: 175px;
+    margin-left: 17px;
+    margin-top: 12px;
+    background-color: green;
+    display: inline-block;
+}
+
+.medCir {
+    display: inline-block;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    margin-left: 30px;
+    background-color: deepskyblue;
+}
+
+#parTwo_section {
+    background-color: ghostwhite;
+    height: 100px;
+    width: 96%;
+    border: 5px dotted black;
+    margin-top: 20px;
+
+}
+#xlRect {
+    height: 80px;
+    width: 80%;
+    background-color: lightgoldenrodyellow;
+    margin: auto;
+    margin-top: 9px;
+    box-shadow: 10px 10px 10px black;
+}
+
+#parThree_section {
+    width: 56%;
+    height: 200px;
+    border: solid 2px black;
+    margin-top: 40px;
+    margin-left: 200px;
+    box-shadow: 3px 3px 3px black;
+}
+
+#tString {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+
+body {
+    margin: 5%;
+    height: 100%;
+}

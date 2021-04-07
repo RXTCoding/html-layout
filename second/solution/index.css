@@ -18,16 +18,17 @@ body {
   display: inline-block;
 }
 .square-two {
-  height: 200px;
+  height: 300px;
   width: 400px;
   display: inline-block;
   background-color: forestgreen;
   margin: 0 50px;
+  display: inline-block;
 }
 .circle-one {
-  height: 200px;
-  width: 200px;
-  border-radius: 50%;
+  height: 600px;
+  width: 600px;
+  border-radius: 60%;
   background-color: skyblue;
   display: inline-block;
 }
